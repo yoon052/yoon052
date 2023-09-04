@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=React&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=Express&logoColor=white">
