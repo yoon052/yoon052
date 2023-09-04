@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=HTML5&logoColor=E34F26&labelColor=white)
+<img src="https://img.shields.io/badge/:badgeContent?logo=HTML5&logoColor=E34F26&labelColor=white">
