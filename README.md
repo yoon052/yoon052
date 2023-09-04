@@ -73,6 +73,9 @@
 
 
 <br>
+
+<div align=center><h1>🏆 Most used Languages </h1></div>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
@@ -82,7 +85,7 @@
 
 
 <br>
-<div align=center><h1>Hi there 👋</h1></div>
+<div align=center><h1>👋 Hi there</h1></div>
 
 
 <div align=center>
