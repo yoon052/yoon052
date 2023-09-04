@@ -72,9 +72,17 @@
 </br>
 
 
+<br>
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
+
+</div>
+</br>
 
 
-<div align=center><h3>Hi there 👋</h3></div>
+<br>
+<div align=center><h1>Hi there 👋</h1></div>
 
 
 <div align=center>
@@ -82,7 +90,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon052&count_bg=%2332E7F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
+</br>
 
 
 
