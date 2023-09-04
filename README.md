@@ -42,7 +42,7 @@
 
 <br>
 
-<div align=center><h1>✨ Cowork tools ✨</h1></div>
+<div align=center><h1>✨ Cowork tools</h1></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white">
