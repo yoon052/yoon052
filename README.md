@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&labelColor=white">
+
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"/>
