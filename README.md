@@ -22,8 +22,16 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-plastic&logo=Express&logoColor=white">
   <br>
 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-plastic&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/CSSModules-000000?style=flat-plastic&logo=CSSModules&logoColor=white">
+  <br>
+
+  
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-plastic&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-plastic&logo=Sanity&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-plastic&logo=Vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-plastic&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white">
   <br>
 </div>
 
@@ -33,9 +41,24 @@
 
 <br>
 
-<div align=center><h1>🖥 GitHub Stats</h1></div>
+<div align=center><h1>✨ Cowork tools ✨</h1></div>
+
+<div align=center>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-plastic&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-plastic&logo=Trello&logoColor=white">
+</div>
+
+
+
 
 <br>
+<br>
+
+<div align=center><h1>🖥 GitHub Stats</h1></div>
+
+
 
 <div align="center">
 
