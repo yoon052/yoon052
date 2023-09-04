@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-plastic&logo=Node.js&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-plastic&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-plastic&logo=react&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/Express-000000?style=flat-plastic&logo=Express&logoColor=white">
