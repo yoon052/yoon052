@@ -96,7 +96,22 @@
 </br>
 
 
+<br>
 
+
+<div align=center><h1>🧪 Blog</h1></div>
+
+<br>
+
+<div align=center>
+
+  [Click here to try](https://velog.io/@yoon052/series/)
+
+</div>
+
+
+  
+</br>
 
 
 
