@@ -24,6 +24,7 @@
 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-plastic&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-plastic&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/CSSModules-000000?style=flat-plastic&logo=CSSModules&logoColor=white">
   <br>
 
