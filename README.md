@@ -1,17 +1,3 @@
-#  GitHub Stats 
-<br>
-
-### Hi there 👋
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon052&count_bg=%231036D0&title_bg=%23555555&icon=swagger.svg&icon_color=%231097FC&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-<br>
-
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
@@ -43,6 +29,45 @@
 
 
 
+</br>
+
+<br>
+
+<div align=center><h1>🖥 GitHub Stats</h1></div>
+
+<br>
+
+<div align="center">
+
+![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052&show_icons=true&theme=highcontrast)
+<!--
+[![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052)](https://github.com/yoon052/github-readme-stats)
+-->
+
+</div>
+
+</br>
+
+
+
+
+<div align=center><h3>Hi there 👋</h3></div>
+
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon052&count_bg=%2332E7F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+
+
+
+
+
+
+
+
 
 <!--
 **yoon052/yoon052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,13 +83,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052&show_icons=true&theme=highcontrast)
-<!--
-[![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052)](https://github.com/yoon052/github-readme-stats)
--->
-
 
 
                     
