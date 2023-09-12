@@ -63,10 +63,8 @@
 
 <div align="center">
 
-![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052&show_icons=true&theme=highcontrast)
-<!--
-[![yoon052's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon052)](https://github.com/yoon052/github-readme-stats)
--->
+![yoon052's GitHub stats](https://github-readme-stats-yoon052.vercel.app/api?username=yoon052&show_icons=true&theme=highcontrast)
+
 
 </div>
 
@@ -79,7 +77,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats-yoon052.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
 
 </div>
 </br>
