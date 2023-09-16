@@ -83,6 +83,19 @@
 </br>
 
 
+
+<div align=center><h1>✅ Solved.ac Profile</h1></div>
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ynj3126)](https://solved.ac/ynj3126/)
+
+</div>
+</br>
+
+
+
+
 <br>
 <div align=center><h1>👋 Hi there 👋</h1></div>
 
