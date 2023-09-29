@@ -1,3 +1,30 @@
+<br>
+
+<h1 align="center">Hi 👋, I'm yoon, a developer who codes dreams.</h1>
+<h3 align="center">A passionate frontend developer from Korea.</h3>
+
+<br>
+
+<div align=center>
+
+  
+📝 I regularly write articles on [https://velog.io/@yoon052](https://velog.io/@yoon052)
+
+📫 How to reach me **dkabw923@gmail.com**
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yoon052&label=Profile%20views&color=0e75b6&style=flat" alt="yoon052" /> </p>
+
+
+</br>
+  
+</div>
+
+</br>
+
+<br><br><br>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
@@ -33,14 +60,14 @@
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-plastic&logo=Sanity&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-plastic&logo=Vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-plastic&logo=Git&logoColor=white">
-  <br>
+  <br><br>
 </div>
 
 
 
 </br>
 
-<br>
+<br><br><br>
 
 <div align=center><h1>✨ Cowork tools</h1></div>
 
@@ -54,24 +81,42 @@
 
 
 
-<br>
-<br>
+</br>
+
+<br><br><br><br>
+
 
 <div align=center><h1>🖥 GitHub Stats</h1></div>
 
 
 
 <div align="center">
-
+  
 ![yoon052's GitHub stats](https://github-readme-stats-yoon052.vercel.app/api?username=yoon052&show_icons=true&theme=highcontrast)
 
+</div>
+
+</br>
+
+<br><br><br>
+
+<div align=center><h1>🔥 GitHub Streak </h1></div>
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoon052&theme=highcontrast&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 </div>
 
 </br>
 
 
-<br>
+</br>
+
+
+<br><br>
+
 
 <div align=center><h1>🏆 Most used Languages </h1></div>
 
@@ -80,8 +125,10 @@
 ![Top Langs](https://github-readme-stats-yoon052.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
 
 </div>
-</br>
+</br></br>
 
+
+<br><br>
 
 
 <div align=center><h1>✅ Solved.ac Profile</h1></div>
@@ -91,39 +138,22 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ynj3126)](https://solved.ac/ynj3126/)
 
 </div>
-</br>
+</br></br>
 
 
 
 
-<br>
+<br><br>
 <div align=center><h1>👋 Hi there 👋</h1></div>
 
 
 <div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon052&count_bg=%2332E7F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-</br>
-
-
-<br>
-
-
-<div align=center><h1>🧪 Blog</h1></div>
-
-<br>
-
-<div align=center>
-
-  [Click here to try](https://velog.io/@yoon052/series/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon052&count_bg=%2332E7F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 </div>
 
-
-  
-</br>
+</br></br></br></br>
 
 
 
