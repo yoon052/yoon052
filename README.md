@@ -1,4 +1,4 @@
-<br>
+ㅓ<br>
 
 <h1 align="center">Hi 👋, I'm yoon, a developer who codes dreams.</h1>
 <h3 align="center">A passionate frontend developer from Korea.</h3>
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&hide=php&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&layout=compact&hide=php&theme=highcontrast)
 
 </div>
 </br></br>
