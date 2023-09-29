@@ -124,7 +124,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-yoon052.vercel.app/api/top-langs/?username=yoon052&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon052&hide=php&theme=highcontrast)
 
 </div>
 </br></br>
